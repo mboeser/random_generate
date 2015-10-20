@@ -1,0 +1,35 @@
+#container-fluid {
+	margin: 0 auto;
+	text-align: center;
+}
+
+/*.genList {
+	margin: 0 auto;
+	text-align: center;
+}*/
+
+/*.randomButton {
+	margin-bottom: 100px;
+}*/
+
+button#randomButton.btn.btn-default {
+	margin-bottom: 15px;
+}
+
+button.removeButton.btn.btn-danger {
+	margin-top: 5px;
+}
+
+/*div.genList.well {
+	margin: 0 5px 10px;
+	padding: 10px;
+	height: 120px;
+	width: 170px;
+	float: left;
+
+}*/
+
+.col-md-2 {
+	padding: 10px;
+	margin: 0 5px 20px;
+}
